@@ -14,7 +14,7 @@ You can find out more about this contest at http://icpc.aut.ac.ir and its resour
 
 
 ## LinuxFest
-One of the many useful skills that most CE and CS majors will need throughout their career is experience in working with Linux systems. Since such education is included within the department's courses, SSC annually holds the Linux Festival which also includes many advanced workshops and seminars. 
+One of the many useful skills that most CE and CS majors will need throughout their career is experience in working with Linux systems. Since such education is included within the department's courses, CEIT-SSC annually holds the Linux Festival which also includes many advanced workshops and seminars. 
 
 You can find out more about LinuxFestival at http://linuxfest.aut.ac.ir and its resources are located at [LinuxFest](https://github.com/linuxfestival).
 
