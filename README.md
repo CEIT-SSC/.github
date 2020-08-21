@@ -1,7 +1,7 @@
 # Who We Are
 
 [Students’ Scientific Chapter](http://ceit-ssc.ir) of [Amirkabir Univeristy of Technology](https://aut.ac.ir)’s [CE department](https://ce.aut.ac.ir) is one of the university's student organizations and its members are elected each year by the vote of the department’s students. SSC’s goal is to organize educational courses and workshops, scientific contests, conferences and talks; it also aims to pave the way for students to find positions within the industry.
-SSC was founded 14 years ago, and in the past years it has successfully won “The Best Students’ Scientific Chapter of AmirKabir University of Technology” and “The Best Students’ Scientific Chapter of AmirKabir University Of Technology In Organizing Events” award on a number of occasions.
+SSC was founded 14 years ago, and in the past years it has successfully won “The Best Students’ Scientific Chapter of Amirkabir University of Technology” and “The Best Students’ Scientific Chapter of Amirkabir University Of Technology In Organizing Events” award on a number of occasions.
 
 We hold many annual events and each of them provide useful resources to the public. Therefore, to keep everything in order, we've made several separate GitHub organizations for them as you'll see below.
 
