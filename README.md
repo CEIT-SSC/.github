@@ -21,4 +21,4 @@ You can find out more about LinuxFestival at http://linuxfest.aut.ac.ir and its 
 ## AAISS
 Amirkabir's Summer Summit in Artificial Intelligence consists of advanced talks on various topics in deep learning, machine learning, natural language processing, computer vision and bioinformatics; plus workshops at levels ranging from elementary to advanced so they'll be enlightening for all kinds of students. This event focuses on the latest state-of-the-art researches and it works to exchange ideas and spread the knowledge of artificial intelligence for Persian-speaking enthusiasts from all around the globe. 
 
-You can find out more about AAISS at http://aaiss.ceit.aut.ac.ir/ and its resources are located at [AAISS](https://github.com/AAISS).
+You can find out more about AAISS at http://aaiss.ceit.aut.ac.ir and its resources are located at [AAISS](https://github.com/AAISS).
