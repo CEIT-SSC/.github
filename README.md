@@ -1,4 +1,4 @@
-# Who we are
+# Who We Are
 
 Students’ Scientific Chapter of AmirKabir’s CE department is one of the university's student organizations and its members are elected each year by the vote of the department’s students. SSC’s goal is to organize educational courses and workshops, scientific contests, conferences and talks; it also aims to pave the way for students to find positions within the industry.
 SSC was founded 14 years ago, and in the past years it has successfully won “The Best Students’ Scientific Chapter of AmirKabir University of Technology” and “The Best Students’ Scientific Chapter of AmirKabir University Of Technology In Organizing Events” award on a number of occasions.
