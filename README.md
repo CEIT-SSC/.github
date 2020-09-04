@@ -8,13 +8,13 @@ CEIT-SSC holds many annual events, some of which provide useful resources to the
 
 
 ## AUT-ICPC
-Formerly known as AUT-ACM-ICPC, AUT-ICPC is an annual competitive programming contest which is usually held in November and hosts teams from Iran's top universities. 
+Formerly known as AUT-ACM-ICPC, AUT-ICPC is a competitive programming contest which is usually held in November and hosts teams from Iran's top universities. 
 
 You can find out more about this contest at http://icpc.aut.ac.ir and its resources are located at [AUT-ICPC](https://github.com/aut-icpc).
 
 
 ## LinuxFest
-One of the many useful skills that most CE and CS majors will need throughout their career is experience in working with Linux systems. Since such education is not included within the department's courses, CEIT-SSC annually holds the Linux Festival which also includes many advanced workshops and seminars. 
+One of the many useful skills that most CE and CS majors will need throughout their career is experience in working with Linux systems. Since such education is not included within the department's courses, CEIT-SSC holds the Linux Festival with many workshops and seminars. 
 
 You can find out more about LinuxFest at http://linuxfest.aut.ac.ir and its resources are located at [LinuxFest](https://github.com/linuxfestival).
 
