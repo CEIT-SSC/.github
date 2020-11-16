@@ -20,6 +20,6 @@ You can find out more about LinuxFest at https://linuxfest.aut.ac.ir and its res
 
 
 ## AAISS
-Amirkabir's Summer Summit in Artificial Intelligence consists of advanced talks on various topics in deep learning, machine learning, natural language processing, computer vision and bioinformatics; plus workshops at levels ranging from elementary to advanced in order to make the event useful for all kinds of students. This event focuses on state-of-the-art researches and its aim is to exchange ideas and spread the knowledge of Artificial Intelligence for Persian-speaking enthusiasts from all around the globe. 
+Amirkabir's Summer Summit in Artificial Intelligence consists of advanced talks on various topics in Deep Learning, Machine Learning, Natural Language Processing, Computer Vision and Bioinformatics; plus workshops at levels ranging from elementary to advanced in order to make the event useful for all kinds of students. This event focuses on state-of-the-art researches and its aim is to exchange ideas and spread the knowledge of Artificial Intelligence for Persian-speaking enthusiasts from all around the globe. 
 
 You can find out more about AAISS at https://aaiss.ceit.aut.ac.ir and its resources are located at [AAISS](https://github.com/AAISS).
