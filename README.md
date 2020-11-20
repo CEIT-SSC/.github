@@ -4,7 +4,7 @@ The [Students' Scientific Chapter](http://ceit-ssc.ir) of the [Computer Engineer
 
 Members of the Board of Directors of CEIT-SSC are elected by the students of the department in a general election to serve for one-year terms. Throughout the years, CEIT-SSC has organized a number of highly-successful national and international events and has won the title of "Best Scientific Chapter of Tehran Polytechnic" for two consecutive years (2014 & 2015). It has also received numerous other national awards, including the award for Best Innovative Competition, given by Iran's Ministry of Science, Research and Technology in 2014.
 
-CEIT-SSC holds many annual events, some of which provide useful resources to the public. Therefore, to keep everything in order, we've made several separate GitHub organizations for them as you'll see below.
+CEIT-SSC holds many annual events, some of which provide useful resources to the public. Therefore, to keep everything in order, we've made several separate GitHub organizations for them as seen below.
 
 
 ## AUT-ICPC
